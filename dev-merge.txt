@@ -1,1 +1,4 @@
 hello
+update this file on master branch
+try to merge dev with --no-ff
+
